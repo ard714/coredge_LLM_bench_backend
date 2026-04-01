@@ -1,0 +1,8 @@
+Collecting reportlab
+  Downloading reportlab-4.4.10-py3-none-any.whl.metadata (1.7 kB)
+Requirement already satisfied: pillow>=9.0.0 in C:\Users\Aryan Deo\AppData\Local\Programs\Python\Python313\Lib\site-packages (from reportlab) (11.2.1)
+Requirement already satisfied: charset-normalizer in C:\Users\Aryan Deo\AppData\Local\Programs\Python\Python313\Lib\site-packages (from reportlab) (3.4.2)
+Downloading reportlab-4.4.10-py3-none-any.whl (2.0 MB)
+   ---------------------------------------- 2.0/2.0 MB 5.7 MB/s  0:00:00
+Installing collected packages: reportlab
+Successfully installed reportlab-4.4.10
